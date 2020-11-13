@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Jesús.
 ![Frontend Web Developer](https://github.com/Gsus/Gsus/blob/main/GitHub%20Header.png?raw=true)
 
-#### I'm a guy from Venezuela who happens to be fond of music, languages, web development, and stuff alike.
+### I'm a guy from Venezuela who happens to be fond of music, languages, web development, and stuff alike.
 
 - 🌱 I’m currently interested in learning **React**. 
 - 📫 How to reach me: Take a look at the icons down there :point_down:. 
