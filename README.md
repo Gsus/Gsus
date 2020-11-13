@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently interested in learning **React**. 
 - 📫 How to reach me: Take a look at the icons down there :point_down:. 
-- ⚡ Fun fact: I may be **available for hire** :eyes: 
+- ⚡ Fun fact: I may be **available for hire** :eyes:. *I also love pringles*
 
 ### [Have a look at my website!](https://gsus.github.io/)
 
