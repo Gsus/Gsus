@@ -9,8 +9,8 @@
 
 ### [Have a look at my website!](https://gsus.github.io/)
 
-[<img src='https://raw.githubusercontent.com/Gsus/Gsus/9dc4463ad69de3b6f8f28cc05ce465305a5f0bea/twitter.svg' alt='LinkedIn Icon hyperlink' height='30'>](https://twitter.com/gsussb_)
-[<img src='https://raw.githubusercontent.com/Gsus/Gsus/9dc4463ad69de3b6f8f28cc05ce465305a5f0bea/mail.svg' alt='LinkedIn Icon hyperlink' height='27'>](mailto:sanchezbgsus@gmail.com)
+[<img src='https://raw.githubusercontent.com/Gsus/Gsus/9dc4463ad69de3b6f8f28cc05ce465305a5f0bea/twitter.svg' alt='Twitter Icon hyperlink' height='30'>](https://twitter.com/gsussb_)
+[<img src='https://raw.githubusercontent.com/Gsus/Gsus/9dc4463ad69de3b6f8f28cc05ce465305a5f0bea/mail.svg' alt='Mail-to Icon hyperlink' height='27'>](mailto:sanchezbgsus@gmail.com)
 [<img src='https://raw.githubusercontent.com/Gsus/Gsus/9dc4463ad69de3b6f8f28cc05ce465305a5f0bea/linkedin.svg' alt='LinkedIn Icon hyperlink' height='30'>](https://www.linkedin.com/in/gsussb/)
 
 ![Profile views](https://gpvc.arturio.dev/Gsus)  
