@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there 👋, I'm Jesús.
+![Frontend Web Developer](https://github.com/Gsus/Gsus/blob/main/GitHub%20Header.png?raw=true)
 
-<!--
-**Gsus/Gsus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a guy from Venezuela who happens to be fond of music, languages, web development, and stuff alike.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently interested in learning **React**. 
+- 📫 How to reach me: Take a look at the icons down there :point_down:. 
+- ⚡ Fun fact: I may be **available for hire** :eyes: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Have a look at my website!](https://gsus.github.io/)
+
+[<img src='https://raw.githubusercontent.com/Gsus/Gsus/9dc4463ad69de3b6f8f28cc05ce465305a5f0bea/twitter.svg' alt='LinkedIn Icon hyperlink' height='30'>](https://twitter.com/gsussb_)
+[<img src='https://raw.githubusercontent.com/Gsus/Gsus/9dc4463ad69de3b6f8f28cc05ce465305a5f0bea/mail.svg' alt='LinkedIn Icon hyperlink' height='27'>](mailto:sanchezbgsus@gmail.com)
+[<img src='https://raw.githubusercontent.com/Gsus/Gsus/9dc4463ad69de3b6f8f28cc05ce465305a5f0bea/linkedin.svg' alt='LinkedIn Icon hyperlink' height='30'>](https://www.linkedin.com/in/gsussb/)
+
+![Profile views](https://gpvc.arturio.dev/Gsus)  
