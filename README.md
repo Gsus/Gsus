@@ -3,7 +3,7 @@
 
 ### I'm a guy from Venezuela who happens to enjoy music, language learning, web development, and stuff alike.
 
-- 🌱 I’m currently interested in learning **React**. 
+- 🌱 I’m currently interested in learning **Vue** and **React**. 
 - 📫 How to reach me: Take a look at the icons down there :point_down:. 
 - ⚡ Fun fact: I may be **available for hire** :eyes:. *I also love pringles*
 
